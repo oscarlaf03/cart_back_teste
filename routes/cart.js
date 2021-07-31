@@ -1,7 +1,7 @@
 
 const fs = require('fs');
 const path = require('path');
-const CART_DATA_FILE = path.join(__dirname, 'server-cart-data.json');
+const CART_DATA_FILE = path.join(__dirname, './server-cart-data.json');
 
 
 module.exports = (app) => {

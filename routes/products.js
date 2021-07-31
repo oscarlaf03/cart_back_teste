@@ -3,7 +3,7 @@
 
 const fs = require('fs');
 const path = require('path');
-const PRODUCT_DATA_FILE = path.join(__dirname, 'server-product-data.json');
+const PRODUCT_DATA_FILE = path.join(__dirname, './server-product-data.json');
 
 
 
