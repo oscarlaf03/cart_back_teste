@@ -1,14 +1,9 @@
 const express = require('express');
-// const bodyParser = require('body-parser');
-// const fs = require('fs');
-// const path = require('path');
+
 
 const app = express();
 const cart_routes = require('./routes/cart');
 const products_routes = require('./routes/products');
-// const PRODUCT_DATA_FILE = path.join(__dirname, 'server-product-data.json');
-// TODO remove after spit routes
-// const CART_DATA_FILE = path.join(__dirname, 'server-cart-data.json');
 
 
 app.set('port', (process.env.PORT || 3000));
