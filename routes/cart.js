@@ -24,6 +24,7 @@ module.exports = (app) => {
         image_tag: req.body.image_tag,
         quantity: 1
       };
+      // TODO smell??
       let cartProductExists = false;
       cartProducts.map((cartProduct) => {
         if (cartProduct.id === newCartProduct.id) {
