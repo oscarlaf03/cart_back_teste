@@ -1,19 +1,11 @@
 [
     {
-        "id": 4,
-        "title": "CAT Engine 4",
-        "description": "Lorem ipsum dolor sit amet, consectetur  dignissimos suscipit voluptatibus distinctio, error nostrum expedita omnis ipsum sit inventore aliquam sunt quam quis!",
-        "price": 319.9,
-        "image_tag": "cat_engine_4.jpeg",
-        "quantity": 12
-    },
-    {
-        "id": 1,
-        "title": "CAT Engine 1",
-        "description": "Lorem ipsum dolor sit amet, consectetur  dignissimos suscipit voluptatibus distinctio, error nostrum expedita omnis ipsum sit inventore aliquam sunt quam quis!",
-        "price": 719.9,
-        "image_tag": "cat_engine_1.jpeg",
-        "quantity": 3
+        "id": 2,
+        "title": "MIKANO Engine 2",
+        "description": "Lorem ipsum dolor sit amet, consectetur  dignissimos suscipit voluptatibus distinctio, error nostrum expedita omnis ipsum sit inventore aliquam sunt quam quis! ",
+        "price": 650.9,
+        "image_tag": "mikano_engine_2.jpeg",
+        "quantity": 1
     },
     {
         "id": 3,
@@ -21,14 +13,6 @@
         "description": "Lorem ipsum dolor sit amet, consectetur  dignissimos suscipit voluptatibus distinctio, error nostrum expedita omnis ipsum sit inventore aliquam sunt quam quis!",
         "price": 619.9,
         "image_tag": "mikano_engine_3.png",
-        "quantity": 2
-    },
-    {
-        "id": 2,
-        "title": "MIKANO Engine 2",
-        "description": "Lorem ipsum dolor sit amet, consectetur  dignissimos suscipit voluptatibus distinctio, error nostrum expedita omnis ipsum sit inventore aliquam sunt quam quis! ",
-        "price": 650.9,
-        "image_tag": "mikano_engine_2.jpeg",
-        "quantity": 2
+        "quantity": 9
     }
 ]
