@@ -1,6 +1,7 @@
 [
   {
     "id": 1,
+    "category_id": 1,
     "title": "CAT Engine 1",
     "description": "Lorem ipsum dolor sit amet, consectetur  dignissimos suscipit voluptatibus distinctio, error nostrum expedita omnis ipsum sit inventore aliquam sunt quam quis!",
     "product_type": "power set/diesel engine",
@@ -9,6 +10,7 @@
   },
   {
     "id": 2,
+    "category_id": 2,
     "title": "MIKANO Engine 2",
     "description": "Lorem ipsum dolor sit amet, consectetur  dignissimos suscipit voluptatibus distinctio, error nostrum expedita omnis ipsum sit inventore aliquam sunt quam quis! ",
     "product_type": "power set/diesel engine",
@@ -17,6 +19,7 @@
   },
   {
     "id": 3,
+    "category_id": 1,
     "title": "SEFANG Engine 3",
     "description": "Lorem ipsum dolor sit amet, consectetur  dignissimos suscipit voluptatibus distinctio, error nostrum expedita omnis ipsum sit inventore aliquam sunt quam quis!",
     "product_type": "power set/diesel engine",
@@ -25,6 +28,7 @@
   },
   {
     "id": 4,
+    "category_id": 2,
     "title": "CAT Engine 4",
     "description": "Lorem ipsum dolor sit amet, consectetur  dignissimos suscipit voluptatibus distinctio, error nostrum expedita omnis ipsum sit inventore aliquam sunt quam quis!",
     "product_type": "power set/diesel engine",

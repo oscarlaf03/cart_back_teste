@@ -1,7 +1,6 @@
 [
     {
         "id": 1,
-        "payment_info": "this is payment info for order 1",
         "items": [
             {
                 "id": 1,
@@ -9,7 +8,7 @@
                 "description": "Lorem ipsum dolor sit amet, consectetur  dignissimos suscipit voluptatibus distinctio, error nostrum expedita omnis ipsum sit inventore aliquam sunt quam quis!",
                 "price": 719.9,
                 "image_tag": "cat_engine_1.jpeg",
-                "quantity": 18
+                "quantity": 1
             },
             {
                 "id": 2,
@@ -17,13 +16,30 @@
                 "description": "Lorem ipsum dolor sit amet, consectetur  dignissimos suscipit voluptatibus distinctio, error nostrum expedita omnis ipsum sit inventore aliquam sunt quam quis! ",
                 "price": 650.9,
                 "image_tag": "mikano_engine_2.jpeg",
+                "quantity": 2
+            },
+            {
+                "id": 3,
+                "title": "SEFANG Engine 3",
+                "description": "Lorem ipsum dolor sit amet, consectetur  dignissimos suscipit voluptatibus distinctio, error nostrum expedita omnis ipsum sit inventore aliquam sunt quam quis!",
+                "price": 619.9,
+                "image_tag": "mikano_engine_3.png",
                 "quantity": 1
+            },
+            {
+                "id": 4,
+                "title": "CAT Engine 4",
+                "description": "Lorem ipsum dolor sit amet, consectetur  dignissimos suscipit voluptatibus distinctio, error nostrum expedita omnis ipsum sit inventore aliquam sunt quam quis!",
+                "price": 319.9,
+                "image_tag": "cat_engine_4.jpeg",
+                "quantity": 2
             }
-        ]
+        ],
+        "total": "3281.40",
+        "payment_info": "teste delete"
     },
     {
         "id": 2,
-        "payment_info": "2 this is payment info for order 2",
         "items": [
             {
                 "id": 1,
@@ -31,7 +47,7 @@
                 "description": "Lorem ipsum dolor sit amet, consectetur  dignissimos suscipit voluptatibus distinctio, error nostrum expedita omnis ipsum sit inventore aliquam sunt quam quis!",
                 "price": 719.9,
                 "image_tag": "cat_engine_1.jpeg",
-                "quantity": 2
+                "quantity": 1
             },
             {
                 "id": 2,
@@ -39,42 +55,30 @@
                 "description": "Lorem ipsum dolor sit amet, consectetur  dignissimos suscipit voluptatibus distinctio, error nostrum expedita omnis ipsum sit inventore aliquam sunt quam quis! ",
                 "price": 650.9,
                 "image_tag": "mikano_engine_2.jpeg",
-                "quantity": 7
-            }
-        ]
-    },
-    {
-        "items": [
+                "quantity": 2
+            },
             {
-                "id": 2,
-                "title": "MIKANO Engine 2",
-                "description": "Lorem ipsum dolor sit amet, consectetur  dignissimos suscipit voluptatibus distinctio, error nostrum expedita omnis ipsum sit inventore aliquam sunt quam quis! ",
-                "price": 650.9,
-                "image_tag": "mikano_engine_2.jpeg",
+                "id": 3,
+                "title": "SEFANG Engine 3",
+                "description": "Lorem ipsum dolor sit amet, consectetur  dignissimos suscipit voluptatibus distinctio, error nostrum expedita omnis ipsum sit inventore aliquam sunt quam quis!",
+                "price": 619.9,
+                "image_tag": "mikano_engine_3.png",
                 "quantity": 1
+            },
+            {
+                "id": 4,
+                "title": "CAT Engine 4",
+                "description": "Lorem ipsum dolor sit amet, consectetur  dignissimos suscipit voluptatibus distinctio, error nostrum expedita omnis ipsum sit inventore aliquam sunt quam quis!",
+                "price": 319.9,
+                "image_tag": "cat_engine_4.jpeg",
+                "quantity": 2
             }
         ],
-        "total": "650.90",
-        "payment_info": "teste 3",
-        "id": 3
+        "total": "3281.40",
+        "payment_info": "www"
     },
     {
-        "items": [
-            {
-                "id": 2,
-                "title": "MIKANO Engine 2",
-                "description": "Lorem ipsum dolor sit amet, consectetur  dignissimos suscipit voluptatibus distinctio, error nostrum expedita omnis ipsum sit inventore aliquam sunt quam quis! ",
-                "price": 650.9,
-                "image_tag": "mikano_engine_2.jpeg",
-                "quantity": 1
-            }
-        ],
-        "total": "650.90",
-        "payment_info": "teste 3",
-        "id": 4
-    },
-    {
-        "id": 5,
+        "id": 3,
         "items": [
             {
                 "id": 2,
@@ -90,33 +94,10 @@
                 "description": "Lorem ipsum dolor sit amet, consectetur  dignissimos suscipit voluptatibus distinctio, error nostrum expedita omnis ipsum sit inventore aliquam sunt quam quis!",
                 "price": 619.9,
                 "image_tag": "mikano_engine_3.png",
-                "quantity": 2
-            }
-        ],
-        "total": "1890.70",
-        "payment_info": "add new order"
-    },
-    {
-        "id": 6,
-        "items": [
-            {
-                "id": 2,
-                "title": "MIKANO Engine 2",
-                "description": "Lorem ipsum dolor sit amet, consectetur  dignissimos suscipit voluptatibus distinctio, error nostrum expedita omnis ipsum sit inventore aliquam sunt quam quis! ",
-                "price": 650.9,
-                "image_tag": "mikano_engine_2.jpeg",
                 "quantity": 1
-            },
-            {
-                "id": 3,
-                "title": "SEFANG Engine 3",
-                "description": "Lorem ipsum dolor sit amet, consectetur  dignissimos suscipit voluptatibus distinctio, error nostrum expedita omnis ipsum sit inventore aliquam sunt quam quis!",
-                "price": 619.9,
-                "image_tag": "mikano_engine_3.png",
-                "quantity": 2
             }
         ],
-        "total": "1890.70",
-        "payment_info": "add new order2"
+        "total": "1270.80",
+        "payment_info": "teste"
     }
 ]
